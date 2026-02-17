@@ -29,13 +29,13 @@
 
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flicksie&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Flicksie&theme=2077)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flicksie&theme=dracula) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Flicksie&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Flicksie&theme=2077) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Flicksie&theme=2077) 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flicksie&theme=dracula) 
- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flicksie&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Flicksie&theme=2077) 
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Flicksie&theme=2077) 
 
 <!--
 **Flicksie/Flicksie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
